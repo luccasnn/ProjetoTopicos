@@ -47,5 +47,5 @@ Criar uma API RESTful para gerenciamento de pessoas e cidades com suporte a oper
     dotnet run
 
 6. Acesso ao Swager para testar:
-    http://localhost:5000/swagger
+    http://localhost:5101/swagger
     
