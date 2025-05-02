@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "1BZUq24JMz8cwTPph0R3kycTP++EHWTEYPIb/ReBYRw=",
+  "Source": "CadastroApi",
+  "BasePath": "_content/CadastroApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CadastroApi\\wwwroot",
+      "Source": "CadastroApi",
+      "ContentRoot": "C:\\Users\\lucca\\Downloads\\projetoC# (2) (2)\\projetoC#\\CadastroApi\\wwwroot\\",
+      "BasePath": "_content/CadastroApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\lucca\\Downloads\\projetoC# (2) (2)\\projetoC#\\CadastroApi\\wwwroot\\index.html",
+      "SourceId": "CadastroApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lucca\\Downloads\\projetoC# (2) (2)\\projetoC#\\CadastroApi\\wwwroot\\",
+      "BasePath": "_content/CadastroApi",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\lucca\\Downloads\\projetoC# (2) (2)\\projetoC#\\CadastroApi\\wwwroot\\script.js",
+      "SourceId": "CadastroApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lucca\\Downloads\\projetoC# (2) (2)\\projetoC#\\CadastroApi\\wwwroot\\",
+      "BasePath": "_content/CadastroApi",
+      "RelativePath": "script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    }
+  ]
+}

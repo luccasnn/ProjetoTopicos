@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cadastro de Pessoas e Cidades</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <h1>Cadastro de Pessoas e Cidades</h1>
+
+    <!-- Formulário de Cadastro de Pessoas -->
+    <section>
+      <h2>Cadastrar Pessoa</h2>
+      <form id="formPessoa">
+        <input type="text" id="nome" placeholder="Nome" required />
+        <input type="number" id="idade" placeholder="Idade" required />
+        <input type="email" id="email" placeholder="Email" required />
+        <input
+          type="number"
+          id="cidadeId"
+          placeholder="ID da Cidade"
+          required
+        />
+        <button type="submit">Cadastrar Pessoa</button>
+      </form>
+    </section>
+
+    <!-- Formulário de Cadastro de Cidades -->
+    <section>
+      <h2>Cadastrar Cidade</h2>
+      <form id="formCidade">
+        <input
+          type="text"
+          id="nomeCidade"
+          placeholder="Nome da Cidade"
+          required
+        />
+        <input type="text" id="estado" placeholder="Estado" required />
+        <button type="submit">Cadastrar Cidade</button>
+      </form>
+    </section>
+
+    <!-- Lista de Pessoas -->
+    <section>
+      <h2>Pessoas Cadastradas</h2>
+      <ul id="listaPessoas"></ul>
+    </section>
+
+    <!-- Lista de Cidades -->
+    <section>
+      <h2>Cidades Cadastradas</h2>
+      <ul id="listaCidades"></ul>
+    </section>
+
+    <script src="script.js"></script>
+  </body>
+</html>

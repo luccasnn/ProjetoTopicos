@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\lucca\\Downloads\\projetoC# (2) (2)\\projetoC#\\CadastroApi\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\lucca\\Downloads\\projetoC# (2) (2)\\projetoC#\\CadastroApi\\wwwroot\\script.js",
+      "PackagePath": "staticwebassets\\script.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CadastroApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CadastroApi.props",
+      "PackagePath": "build\\CadastroApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CadastroApi.props",
+      "PackagePath": "buildMultiTargeting\\CadastroApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CadastroApi.props",
+      "PackagePath": "buildTransitive\\CadastroApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
